@@ -20,16 +20,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Estudo de imagens realistas desenvolvidas por IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagem realista para estudo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado o chatgpt 4o
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitada a criação de uma imagem original com um toque romântico, conectada a geração atual e que fosse realista como uma fotografia.
+A imagem criada foi colorida e para 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
