@@ -33,22 +33,11 @@ Foi solicitada a criação de uma imagem original com um toque romântico, conec
 A imagem criada foi colorida e para tornar mais próximo da realidade solicitei que fossem retiradas as cores, tornando a imagem preto e branco
 
 ## 🚀 Resultados
-[O resultado pode ser verificado abaixo:]
+O resultado pode ser verificado no link abaixo:
 (https://chatgpt.com/share/67923861-1fb0-8000-93a7-cf9ffe60cb04)
 
-
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A criação de insights reais não parece tão fácil... a arte de enganar pode ter vários estágios e vários níveis para alcançar resultados satisfatórios.
+A despeito do que se fala, sobrepor imagens ou alterar formas pode ser mais complexo.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
