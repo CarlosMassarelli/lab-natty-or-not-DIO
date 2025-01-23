@@ -30,10 +30,12 @@ Foi utilizado o chatgpt 4o
 
 ## 🧐 Processo de Criação
 Foi solicitada a criação de uma imagem original com um toque romântico, conectada a geração atual e que fosse realista como uma fotografia.
-A imagem criada foi colorida e para 
+A imagem criada foi colorida e para tornar mais próximo da realidade solicitei que fossem retiradas as cores, tornando a imagem preto e branco
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[O resultado pode ser verificado abaixo:]
+(https://chatgpt.com/share/67923861-1fb0-8000-93a7-cf9ffe60cb04)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
